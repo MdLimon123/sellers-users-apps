@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "167560947670",
+    "project_id": "foodpandaclone-f3bdc",
+    "storage_bucket": "foodpandaclone-f3bdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167560947670:android:1a798f9e79668a919f2677",
+        "android_client_info": {
+          "package_name": "com.example.sellers_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOaUgIPgVvNnFAGUonhLk4dg79nORokec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167560947670:android:1e7a4b5cf8c391459f2677",
+        "android_client_info": {
+          "package_name": "com.limon.userapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOaUgIPgVvNnFAGUonhLk4dg79nORokec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
